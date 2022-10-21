@@ -1,7 +1,7 @@
 # FrontEnd Práctica 1 - AbogaBot
 
 ## Toma de requerimientos
-[Toma de requerimientos word][https://github.com/mrodriguezh23/FronEnd-Pr-ctica-1-AbogaBot/blob/main/Toma%20de%20requerimientos.docx]
+##### [Toma de requerimientos word][https://github.com/mrodriguezh23/FronEnd-Pr-ctica-1-AbogaBot/blob/main/Toma%20de%20requerimientos.docx]
 #### Diagrama de negocio
 [![diagrama](https://github.com/mrodriguezh23/FronEnd-Pr-ctica-1-AbogaBot/blob/main/Modelo%20Abogabot.png "diagrama")](https://github.com/mrodriguezh23/FronEnd-Pr-ctica-1-AbogaBot/blob/main/Modelo%20Abogabot.png "diagrama")
 ## Buyer persona
